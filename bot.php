@@ -1,5 +1,5 @@
 <?php
-// win/bot.php
+// bot.php
 require 'db.php';
 
 // CONFIGURATION
