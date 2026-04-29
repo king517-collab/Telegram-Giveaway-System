@@ -465,53 +465,13 @@ If setup is correct, you will see:
 
 --------------------------------------------------
 
-<h2 align="center">🎮 Usage Guide</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM-READY-00ff88?style=for-the-badge">
-</p>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center">
-
-## 👤 User Panel  
-
-- Open Telegram Bot  
-- Click **Open Giveaway**  
-- Click **JOIN**  
-- You are entered in giveaway  
-
-</td>
-
-<td align="center">
-
-## 🛡️ Admin Panel  
-
-- Enter Prize Name  
-- Set Time (minutes)  
-- Click **Start Giveaway**  
-- Click **Stop & Pick Winner**  
-- Use **Re-roll** if needed  
-
-</td>
-</tr>
-</table>
-
----
-
-<p align="center">
-  🎉 Fully Automated System • No Manual Work • Fair Winner Selection
-</p>
-
---------------------------------------------------
-
 <h2 align="center">📸 Interface Preview</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/UI-PREVIEW-8A2BE2?style=for-the-badge">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/SYSTEM-READY-00ff88?style=for-the-badge">
 </p>
 
 <br>
