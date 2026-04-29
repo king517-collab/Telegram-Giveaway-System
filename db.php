@@ -1,9 +1,9 @@
 <?php
-// win/db.php
+//db.php
  $host = 'localhost';
- $db   = 'jaiclubp_win';
- $user = 'jaiclubp_win'; 
- $pass = 'jaiclubp_win'; // Yahan apna asli password daalein
+ $db   = 'your_db_name';
+ $user = 'your_db_user'; 
+ $pass = 'your_db_password'; // Yahan apna asli password daalein
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$db", $user, $pass);
