@@ -519,7 +519,7 @@ If setup is correct, you will see:
 ## 👤 User Interface
 
 <p align="center">
-  <img src="images/user-interface.jpg" width="80%">
+  <img src="image/user-interface.jpg" width="80%">
 </p>
 
 <p align="center">
@@ -531,7 +531,7 @@ If setup is correct, you will see:
 ## 🛡️ Admin Panel
 
 <p align="center">
-  <img src="images/admin-panel.jpg" width="80%">
+  <img src="image/admin-panel.jpg" width="80%">
 </p>
 
 <p align="center">
