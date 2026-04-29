@@ -18,13 +18,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Telegram+Giveaway+System;Auto+Winner+Selection;Secure+Web+App;Admin+Control+Panel">
 </p>
---------------------------------------------------
 
-<p align="center">
-  <a href="https://t.me/Unknown_Reason">
-    <img src="https://img.shields.io/badge/🚀%20Telegram%20Channel%20Join-00d2ff?style=for-the-badge&logo=telegram">
-  </a>
-</p>
 
 --------------------------------------------------
 
@@ -108,17 +102,85 @@ Optimized backend with instant response
 
 --------------------------------------------------
 
-🧠 HOW IT WORKS
+<h2 align="center">🧠 HOW IT WORKS</h2>
 
-User → Open Bot → Open Web App → Click JOIN  
-↓  
-Data Database me store hota hai  
-↓  
-Admin Stop karta hai  
-↓  
-System Random Winner pick karta hai  
-↓  
-Winner ko Telegram DM milta hai 🎉  
+<p align="center">
+  <img src="https://img.shields.io/badge/FLOW-AUTOMATED-00d2ff?style=for-the-badge">
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center">
+
+### 👤 Step 1  
+User opens the Telegram Bot  
+
+</td>
+
+<td align="center">
+
+### 🌐 Step 2  
+Clicks **Open Giveaway** → Web App loads  
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🎯 Step 3  
+User clicks **JOIN** button  
+
+</td>
+
+<td align="center">
+
+### 💾 Step 4  
+User data saved in database  
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🛡️ Step 5  
+Admin monitors & controls giveaway  
+
+</td>
+
+<td align="center">
+
+### ⏹️ Step 6  
+Admin stops giveaway  
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🎲 Step 7  
+System selects random winner  
+
+</td>
+
+<td align="center">
+
+### 🎉 Step 8  
+Winner gets Telegram notification  
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  🔥 Fully Automated • No Manual Work • Fair Selection System
+</p>
 
 --------------------------------------------------
 
