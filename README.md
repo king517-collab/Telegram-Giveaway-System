@@ -508,6 +508,38 @@ If setup is correct, you will see:
 
 --------------------------------------------------
 
+<h2 align="center">📸 Interface Preview</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/UI-PREVIEW-8A2BE2?style=for-the-badge">
+</p>
+
+<br>
+
+## 👤 User Interface
+
+<p align="center">
+  <img src="images/user-interface.jpg" width="80%">
+</p>
+
+<p align="center">
+  🎯 Live Giveaway • Join Button • Participants List • Timer System
+</p>
+
+---
+
+## 🛡️ Admin Panel
+
+<p align="center">
+  <img src="images/admin-panel.jpg" width="80%">
+</p>
+
+<p align="center">
+  🎛️ Control Giveaway • Start • Stop & Pick • Re-roll Winner
+</p>
+
+--------------------------------------------------
+
 🌐 FOLLOW ME
 
 <p align="center">
