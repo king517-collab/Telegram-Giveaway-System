@@ -20,23 +20,16 @@
 </p>
 --------------------------------------------------
 
-🚀 OPEN BOT  
+
 
 <p align="center">
-  <a href="https://t.me/YOUR_BOT">
-    <img src="https://img.shields.io/badge/🚀%20OPEN%20BOT-CLICK%20HERE-00d2ff?style=for-the-badge&logo=telegram">
+  <a href="https://t.me/Unknown_Reason">
+    <img src="https://img.shields.io/badge/🚀%20Telegram%20Channel%20Join-00d2ff?style=for-the-badge&logo=telegram">
   </a>
 </p>
 
 --------------------------------------------------
 
-🎬 LIVE PREVIEW  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQh6JxX0eY/giphy.gif" width="80%">
-</p>
-
---------------------------------------------------
 
 ⚡ FEATURES
 
