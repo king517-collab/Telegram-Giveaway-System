@@ -3,11 +3,11 @@
 require 'db.php';
 
 // CONFIGURATION
-define('BOT_TOKEN', '8693917824:AAG8Ak6jEWZPG3nljcLEMDUSFBSv6PErMEs'); // New Token
+define('BOT_TOKEN', 'PASTE_YOUR_BOT_TOKEN'); // New Token
 define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
 
 // Admin ID
-define('ADMIN_ID', 6481253895);
+define('ADMIN_ID', PASTE_YOUR_TG_ID); //12345678
 
 // FUNCTION: Send Request to Telegram
 function botRequest($method, $params = []) {
@@ -40,7 +40,7 @@ if (!$update) {
 // 1. /start - Open App with Web App Button
 if ($text == '/start') {
     // Web App URL
-    $app_url = "https://jaiclub-prediction.com/win/";
+    $app_url = "https://YourDomain.com/index.html";
     
     // Web App Button (Opens inside Telegram)
     $reply_markup = json_encode([
