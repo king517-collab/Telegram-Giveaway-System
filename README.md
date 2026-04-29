@@ -194,7 +194,7 @@ Winner gets Telegram notification
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/3o7TKsQ8UQh6JxX0eY/giphy.gif" width="30">
-  ⚙️ SETUP GUIDE
+   SETUP GUIDE
   <img src="https://media.giphy.com/media/3o7TKsQ8UQh6JxX0eY/giphy.gif" width="30">
 </h2>
 
@@ -385,9 +385,9 @@ Add admin Telegram ID
 
 ---
 
-## <h2 align="center">
+ <h2 align="center">
   <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="30">
-  🧩 FILE CONFIGURATION DETAILS
+   FILE CONFIGURATION DETAILS
   <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="30">
 </h2>
 
