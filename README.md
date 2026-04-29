@@ -20,8 +20,6 @@
 </p>
 --------------------------------------------------
 
-
-
 <p align="center">
   <a href="https://t.me/Unknown_Reason">
     <img src="https://img.shields.io/badge/🚀%20Telegram%20Channel%20Join-00d2ff?style=for-the-badge&logo=telegram">
@@ -30,16 +28,83 @@
 
 --------------------------------------------------
 
+<h2 align="center">⚡ FEATURES</h2>
 
-⚡ FEATURES
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡-REALTIME_UPDATES-00ffcc?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🎲-AUTO_WINNER-ffcc00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🔒-SECURE_ACCESS-ff4444?style=for-the-badge">
+</p>
 
-- Telegram Web App Integration  
-- Auto Random Winner Selection  
-- Real-time Updates (No Reload)  
-- Admin Panel Control  
-- Secure Access (Telegram Only)  
-- Mobile Friendly UI  
-- Winner Animation  
+<br>
+
+<table align="center">
+<tr>
+<td align="center">
+
+### 🎯 Web App Integration  
+Run giveaway directly inside Telegram Web App  
+
+</td>
+
+<td align="center">
+
+### 🎲 Random Winner  
+100% fair automatic winner selection system  
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ⚡ Live Updates  
+No refresh needed, everything updates instantly  
+
+</td>
+
+<td align="center">
+
+### 🎛️ Admin Panel  
+Control start, stop & re-roll easily  
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🔒 Secure System  
+Only Telegram users allowed access  
+
+</td>
+
+<td align="center">
+
+### 📱 Responsive UI  
+Works smoothly on mobile & desktop  
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🎉 Winner Animation  
+Cool popup + celebration effects  
+
+</td>
+
+<td align="center">
+
+### 🚀 Fast Performance  
+Optimized backend with instant response  
+
+</td>
+</tr>
+</table>
+
+
 
 --------------------------------------------------
 
