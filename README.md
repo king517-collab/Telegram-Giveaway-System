@@ -193,9 +193,9 @@ Winner gets Telegram notification
 --------------------------------------------------
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQh6JxX0eY/giphy.gif" width="30">
+  <img src="https://cdn-icons-png.flaticon.com/512/189/189792.png" width="28">
    SETUP GUIDE
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQh6JxX0eY/giphy.gif" width="30">
+  <img src="https://cdn-icons-png.flaticon.com/512/189/189792.png" width="28">
 </h2>
 
 <h3 align="center">🚀 Step 1: Environment Setup</h3>
@@ -386,9 +386,9 @@ Add admin Telegram ID
 ---
 
  <h2 align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="30">
-   FILE CONFIGURATION DETAILS
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="30">
+  <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="28">
+  FILE CONFIGURATION DETAILS
+  <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="28">
 </h2>
 
 ### 🗄️ db.php
