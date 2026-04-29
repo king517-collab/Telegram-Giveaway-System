@@ -1,11 +1,11 @@
 <?php
-// win/api.php
+// api.php
 header('Content-Type: application/json');
 date_default_timezone_set('Asia/Kolkata');
 require 'db.php';
 
-define('BOT_TOKEN', '8693917824:AAG8Ak6jEWZPG3nljcLEMDUSFBSv6PErMEs');
-define('ADMIN_ID', 6481253895);
+define('BOT_TOKEN', 'PASTE_YOUR_BOT_TOKEN');
+define('ADMIN_ID', PASTE_YOUR_TG_ID); 
 
  $input = json_decode(file_get_contents("php://input"), true);
  $action = $input['action'] ?? '';
@@ -137,7 +137,7 @@ try {
 }
 
 function sendTelegramMessage($chat_id, $text) {
-    $token = '8693917824:AAG8Ak6jEWZPG3nljcLEMDUSFBSv6PErMEs';
+    $token = 'PASTE_YOUR_BOT_TOKEN';
     $url = "https://api.telegram.org/bot$token/sendMessage";
     $data = ['chat_id' => $chat_id, 'text' => $text, 'parse_mode' => 'HTML'];
     
