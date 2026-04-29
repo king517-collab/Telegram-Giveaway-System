@@ -24,11 +24,7 @@
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="30">
-  ⚡ FEATURES
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="30">
-</h2> <h2 align="center"> FEATURES</h2> <h2 align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="30">
-  ⚡ FEATURES
+   FEATURES
   <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="30">
 </h2>
 
@@ -110,7 +106,11 @@ Optimized backend with instant response
 
 --------------------------------------------------
 
-<h2 align="center">🧠 HOW IT WORKS</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="30">
+   HOW IT WORKS
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="30">
+</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/FLOW-AUTOMATED-00d2ff?style=for-the-badge">
@@ -192,7 +192,11 @@ Winner gets Telegram notification
 
 --------------------------------------------------
 
-<h2 align="center">⚙️ SETUP GUIDE</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQh6JxX0eY/giphy.gif" width="30">
+  ⚙️ SETUP GUIDE
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQh6JxX0eY/giphy.gif" width="30">
+</h2>
 
 <h3 align="center">🚀 Step 1: Environment Setup</h3>
 
@@ -381,7 +385,11 @@ Add admin Telegram ID
 
 ---
 
-## 📌 File Configuration Details
+## <h2 align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="30">
+  🧩 FILE CONFIGURATION DETAILS
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="30">
+</h2>
 
 ### 🗄️ db.php
 ```php
