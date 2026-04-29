@@ -22,7 +22,15 @@
 
 --------------------------------------------------
 
-<h2 align="center">⚡ FEATURES</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="30">
+  ⚡ FEATURES
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="30">
+</h2> <h2 align="center"> FEATURES</h2> <h2 align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="30">
+  ⚡ FEATURES
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="30">
+</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/⚡-REALTIME_UPDATES-00ffcc?style=for-the-badge">
