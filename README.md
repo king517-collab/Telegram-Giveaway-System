@@ -301,20 +301,23 @@ Check tables are created successfully
 ### 📌 SQL TABLE STRUCTURE
 
 ```sql
-CREATE TABLE giveaway_config (
-  id INT AUTO_INCREMENT PRIMARY KEY,
-  status ENUM('active','stopped') DEFAULT 'stopped',
-  prize VARCHAR(255),
-  end_time DATETIME,
-  winner_id BIGINT
+CREATE TABLE IF NOT EXISTS `giveaway_config` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `status` enum('active','stopped') DEFAULT 'stopped',
+  `prize` varchar(255) DEFAULT NULL,
+  `end_time` datetime DEFAULT NULL,
+  `winner_id` bigint(20) DEFAULT NULL,
+  PRIMARY KEY (`id`)
 );
 
-CREATE TABLE participants (
-  id INT AUTO_INCREMENT PRIMARY KEY,
-  user_id BIGINT UNIQUE,
-  name VARCHAR(255),
-  photo_url TEXT,
-  join_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+CREATE TABLE IF NOT EXISTS `participants` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `user_id` bigint(20) NOT NULL,
+  `name` varchar(255) NOT NULL,
+  `photo_url` text,
+  `join_time` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `user_id` (`user_id`)
 );
 ```
 
