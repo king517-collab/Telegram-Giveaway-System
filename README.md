@@ -468,16 +468,6 @@ If setup is correct, you will see:
 
 --------------------------------------------------
 
-<h2 align="center">📸 Interface Preview</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/UI-PREVIEW-8A2BE2?style=for-the-badge">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM-READY-00ff88?style=for-the-badge">
-</p>
-
-<br>
 
 ## 👤 User Interface
 
@@ -503,7 +493,6 @@ If setup is correct, you will see:
 
 --------------------------------------------------
 
-🌐 FOLLOW ME
 
 <p align="center">
   <a href="https://youtube.com/@Unknown_Reason">
