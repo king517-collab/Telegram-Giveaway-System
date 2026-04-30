@@ -402,18 +402,21 @@ your_db_password
 
 ### 🤖 bot.php
 ```php
-PASTE_YOUR_BOT_TOKEN  
-PASTE_YOUR_TG_ID  
-https://YourDomain.com/index.html  
-```
+PASTE_YOUR_BOT_TOKEN``` (Line No. 6)
+```php
+PASTE_YOUR_TG_ID``` (Line No. 10)
+```php
+https://YourDomain.com/index.html``` (Line No. 43)
+
 
 ---
 
 ### ⚙️ api.php
 ```php
-PASTE_YOUR_BOT_TOKEN  
-PASTE_YOUR_TG_ID  
-```
+PASTE_YOUR_BOT_TOKEN ``` (Line No. 7 & 140)
+```php
+PASTE_YOUR_TG_ID``` (Line No. 8)
+
 
 ---
 
