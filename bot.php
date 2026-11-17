@@ -3,11 +3,11 @@
 require 'db.php';
 
 // CONFIGURATION
-define('BOT_TOKEN', 'PASTE_YOUR_BOT_TOKEN'); // New Token
+define('BOT_TOKEN', '8745912574:AAFCiWQm-8Lwde6YbuOFAMHduHGMMCNmvYU'); // New Token
 define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
 
 // Admin ID
-define('ADMIN_ID', PASTE_YOUR_TG_ID); //12345678
+define('ADMIN_ID', 7580298442); //12345678
 
 // FUNCTION: Send Request to Telegram
 function botRequest($method, $params = []) {
